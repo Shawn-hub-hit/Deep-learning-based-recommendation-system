@@ -2,7 +2,7 @@
 This repository contains articles,  papers and repositories on deep learning based recommendation system
 ## Papers
 1. Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu, RecSys 2016.<br>
-Source: http://dm.postech.ac.kr/~cartopy/ConvMF/, Code: https://github.com/cartopy/ConvMF
+[Source](http://dm.postech.ac.kr/~cartopy/ConvMF/), [Code](https://github.com/cartopy/ConvMF)
 2. A Neural Autoregressive Approach to Collaborative Filtering by Yin Zheng et all.<br>
 Source: http://proceedings.mlr.press/v48/zheng16.pdf
 3. Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun Ko. ACML 2016 <br>
