@@ -61,7 +61,7 @@ Source: https://arxiv.org/abs/1705.00105
  https://arxiv.org/pdf/1706.06978.pdf
  
  ## Session-based recommendations
- - Session-based Recommendations with Recurrent Neural Networks. Balazs Hidasi. ICLR'2016 <br> Source: https://arxiv.org/pdf/1511.06939.pdf, Code: https://github.com/hidasib/GRU4Rec
+ - Session-based Recommendations with Recurrent Neural Networks. Balazs Hidasi. ICLR'2016 <br> [Source](https://arxiv.org/pdf/1511.06939.pdf), [Code](https://github.com/hidasib/GRU4Rec)
 - Sequential Recommendation with User Memory Networks. Xu Chen. WSDM'2018 <br> [Source](http://delivery.acm.org/10.1145/3160000/3159668/p108-chen.pdf?ip=202.114.121.196&id=3159668&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E4977B3C8BBB4AEC7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543762780_754527df140c3ba87251e6791e1e7a54)
 - Translation-based Factorization Machines for Sequential Recommendation. Rajiv Pasricha. RecSys'2018 <br> [Source](http://delivery.acm.org/10.1145/3250000/3240356/p63-pasricha.pdf?ip=202.114.121.196&id=3240356&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E4977B3C8BBB4AEC7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543762950_bca83c52a659de663600cd584aa02897)
 - Multi-User Mobile Sequential Recommendation: An Eﬀicient Parallel Computing Paradigm. Zeyang Ye. KDD'2018 <br> [Source](http://delivery.acm.org/10.1145/3230000/3220111/p2624-ye.pdf?ip=202.114.121.196&id=3220111&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E4977B3C8BBB4AEC7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543763031_27ca10632d3ecc2db9e354fef6d8be63)
