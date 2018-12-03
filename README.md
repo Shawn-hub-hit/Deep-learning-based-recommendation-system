@@ -48,17 +48,16 @@ Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
 23. Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov. <br>
 Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf , Code: https://github.com/felipecruz/CFRBM
 24. Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile. <br>
-Source: https://arxiv.org/pdf/1607.07326.pdf
+[Source](https://arxiv.org/pdf/1607.07326.pdf)
 25.  Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov <br>
-Source: https://arxiv.org/abs/1705.00105
-26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , Code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
-27. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght <br> Source:  https://arxiv.org/pdf/1608.07400.pdf
-28. Training Deep AutoEncoders for Collaborative Filtering by Oleksii Kuchaiev, Boris Ginsburg. <br> Source: https://arxiv.org/abs/1708.01715 , Code: https://github.com/NVIDIA/DeepRecommender
-29. Collaborative Variational Autoencoder for Recommender Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf, Code: https://github.com/eelxpeng/CollaborativeVAE
-30. Variational Autoencoders for Collaborative Filtering by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman and Tony Jebara <br> Source: https://arxiv.org/pdf/1802.05814.pdf, Code: https://github.com/dawenl/vae_cf
-31. Neural Collaborative Filtering by Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua <br> Source: https://arxiv.org/abs/1708.05031 , Code : https://github.com/hexiangnan/neural_collaborative_filtering
- 32. Deep Interest Network for Click-Through Rate Prediction by Zhou G, Zhu X, Song C, et al. SIGKDD 2018 <br> Source:
- https://arxiv.org/pdf/1706.06978.pdf
+[Source](https://arxiv.org/abs/1705.00105)
+26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> [Source](https://arxiv.org/abs/1703.04247) , [Code (provided by readers)](https://github.com/Leavingseason/OpenLearning4DeepRecsys)
+27. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght <br> [Source](https://arxiv.org/pdf/1608.07400.pdf)
+28. Training Deep AutoEncoders for Collaborative Filtering by Oleksii Kuchaiev, Boris Ginsburg. <br> [Source](https://arxiv.org/abs/1708.01715) , [Code](https://github.com/NVIDIA/DeepRecommender)
+29. Collaborative Variational Autoencoder for Recommender Systems by Xiaopeng Li and James She <br> [Source](http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf), [Code](https://github.com/eelxpeng/CollaborativeVAE)
+30. Variational Autoencoders for Collaborative Filtering by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman and Tony Jebara <br> [Source](https://arxiv.org/pdf/1802.05814.pdf), [Code](https://github.com/dawenl/vae_cf)
+31. Neural Collaborative Filtering by Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua <br> [Source](https://arxiv.org/abs/1708.05031) , [Code](https://github.com/hexiangnan/neural_collaborative_filtering)
+ 32. Deep Interest Network for Click-Through Rate Prediction by Zhou G, Zhu X, Song C, et al. SIGKDD 2018 <br> [Source](https://arxiv.org/pdf/1706.06978.pdf)
  
  ## Session-based recommendations
  - Session-based Recommendations with Recurrent Neural Networks. Balazs Hidasi. ICLR'2016 <br> [Source](https://arxiv.org/pdf/1511.06939.pdf), [Code](https://github.com/hidasib/GRU4Rec)
