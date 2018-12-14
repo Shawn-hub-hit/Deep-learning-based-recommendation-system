@@ -58,6 +58,7 @@ Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf , Cod
 30. Variational Autoencoders for Collaborative Filtering by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman and Tony Jebara <br> [Source](https://arxiv.org/pdf/1802.05814.pdf), [Code](https://github.com/dawenl/vae_cf)
 31. Neural Collaborative Filtering by Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua <br> [Source](https://arxiv.org/abs/1708.05031) , [Code](https://github.com/hexiangnan/neural_collaborative_filtering)
  32. Deep Interest Network for Click-Through Rate Prediction by Zhou G, Zhu X, Song C, et al. SIGKDD 2018 <br> [Source](https://arxiv.org/pdf/1706.06978.pdf)
+ 33. ATRank An Attention-Based User Behavior Modeling Framework for Recommendation. Zhou, Chang, et al. AAAI‘2018 <br> [Source](https://arxiv.org/pdf/1711.06632.pdf), [Code](https://github.com/jinze1994/ATRank)
  
  ## Session-based recommendations
  - Session-based Recommendations with Recurrent Neural Networks. Balazs Hidasi. ICLR'2016 <br> [Source](https://arxiv.org/pdf/1511.06939.pdf), [Code](https://github.com/hidasib/GRU4Rec)
