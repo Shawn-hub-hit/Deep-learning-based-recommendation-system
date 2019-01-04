@@ -60,6 +60,7 @@ Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf , Cod
  32. Deep Interest Network for Click-Through Rate Prediction by Zhou G, Zhu X, Song C, et al. SIGKDD 2018 <br> [Source](https://arxiv.org/pdf/1706.06978.pdf), [Code](https://github.com/zhougr1993/DeepInterestNetwork)
  33. ATRank An Attention-Based User Behavior Modeling Framework for Recommendation. Zhou, Chang, et al. AAAI‘2018 <br> [Source](https://arxiv.org/pdf/1711.06632.pdf), [Code](https://github.com/jinze1994/ATRank)
 34. Product-based neural networks for user response prediction. Qu Y et al.ICDM 2016 <br> [Source](https://arxiv.org/pdf/1611.00144.pdf)
+35. Wide & deep learning for recommender systems. Cheng H T, Koc L, Harmsen J, et al. RecSys'2016.
  
  ## Session-based recommendations
  - Session-based Recommendations with Recurrent Neural Networks. Balazs Hidasi. ICLR'2016 <br> [Source](https://arxiv.org/pdf/1511.06939.pdf), [Code](https://github.com/hidasib/GRU4Rec)
